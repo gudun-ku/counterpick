@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.beloushkin.counterpick.R
 import com.beloushkin.counterpick.adapters.HeroAdapter
-import com.beloushkin.counterpick.models.Hero
+import com.beloushkin.domain.models.Hero
 import com.beloushkin.counterpick.presenters.HeroListPresenter
 import com.beloushkin.counterpick.views.HeroListView
 import kotlinx.android.synthetic.main.fragment_hero_list.*

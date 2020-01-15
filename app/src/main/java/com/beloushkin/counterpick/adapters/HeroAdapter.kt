@@ -8,7 +8,7 @@ import android.widget.TextView
 
 import androidx.recyclerview.widget.RecyclerView
 import com.beloushkin.counterpick.R
-import com.beloushkin.counterpick.models.Hero
+import com.beloushkin.domain.models.Hero
 
 class HeroAdapter: RecyclerView.Adapter<HeroAdapter.ViewHolder>() {
 

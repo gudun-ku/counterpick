@@ -1,6 +1,6 @@
 package com.beloushkin.counterpick.views
 
-import com.beloushkin.counterpick.models.Hero
+import com.beloushkin.domain.models.Hero
 import moxy.MvpView
 import moxy.viewstate.strategy.AddToEndSingleStrategy
 import moxy.viewstate.strategy.StateStrategyType

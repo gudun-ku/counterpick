@@ -1,4 +1,4 @@
-package com.beloushkin.counterpick.models
+package com.beloushkin.domain.models
 
 data class Hero(
     val id: Int,
